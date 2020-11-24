@@ -1,0 +1,19 @@
+{
+  "name": "sms-group",
+  "version": "1.0.0",
+  "description": "SMS-Group",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sudip Dalavi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "mysql": "^2.18.1",
+    "winston": "^3.3.3",
+    "x-frame-options": "^1.0.0",
+    "x-xss-protection": "^2.0.0"
+  }
+}
